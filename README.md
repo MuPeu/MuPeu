@@ -8,6 +8,10 @@
 </div>
 
 <div align="center">
+  <img src="https://streak-stats.demolab.com?user=MuPeu&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+<div align="center">
   <img src="https://raw.githubusercontent.com/MuPeu/MuPeu/output/snake.svg" alt="Snake animation" />
 </div>
 
@@ -50,7 +54,7 @@
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MuPeu}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=MuPeu.MuPeu&" /></p> 
 <br></div>
 
 
