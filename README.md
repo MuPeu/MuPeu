@@ -4,7 +4,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats-fast.vercel.app/api?username=MuPeu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=BF00FF&icon_color=BF00FF&text_color=C9D1D9" alt="Murilo Rangel de França github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=swastik7805&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BF00FF&text_color=C9D1D9&langs_count=8"/>
+  <img width="41%" height="195px" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MuPeu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BF00FF&text_color=C9D1D9&langs_count=8"/>
 </div>
 
 <div align="center">
